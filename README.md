@@ -1,4 +1,7 @@
-### Olá!!! 👋
+### Olá!!! 
+
+Este é meu repositorio, passei muito tempo negligenciado ele mas agora vou olhar pra cá com muito carinho e amor.
+
 
 <!--
 **Altamier/Altamier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
